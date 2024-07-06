@@ -21,7 +21,7 @@ $ python Registration.py
 ```
 
 ## Screenshot
-[Screenshot](https://github.com/chrybrk/RegGUIpy/blob/main/screenshot.jpg)
+![Screenshot](https://github.com/chrybrk/RegGUIpy/blob/main/screenshot.jpg)
 
 ## License
 - Under MIT so use however you want to.
